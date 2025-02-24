@@ -11,7 +11,7 @@ Hi, I'm Nickel! 👋
 I'm a 18-year-old student, passionate about learning and exploring the endless possibilities of the internet.
 I have a strong interest in coding and cybersecurity, and I've decided to pursue a path in Cyber Security. Always eager to learn, experiment, and strengthen my skills in the digital world!  🚀
 
-###
+##
 
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtrang0cjV1bGtyZWViNDI0dmIza3dham5pZ21memFkbDhmeXBzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif"  />
 
