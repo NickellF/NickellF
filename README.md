@@ -4,6 +4,13 @@
   <img height="281" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd24yeXJ3cnZhaWl2NGh5eTJkbnpjbGlxano4OWloOW8xczA4YzcwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tQelarPg5cyRtXtu3K/giphy.gif"  />
 </div>
 
+## <div align=center>About Me</div>
+
+Welcome to my GitHub profile! <br/>
+Hi, I'm Nickel! 👋
+I'm a 18-year-old student, passionate about learning and exploring the endless possibilities of the internet.
+I have a strong interest in coding and cybersecurity, and I've decided to pursue a path in Cyber Security. Always eager to learn, experiment, and strengthen my skills in the digital world!  🚀
+
 ###
 
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtrang0cjV1bGtyZWViNDI0dmIza3dham5pZ21memFkbDhmeXBzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MnIO9NK5QwKRvVvfE7/giphy.gif"  />
@@ -66,7 +73,7 @@
 [![ygy](https://github-profile-trophy.vercel.app/?username=nickelsync&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&layout=compact&theme=radical&no-frame=true")](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
-###
+
 
 <div align="center">
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZncDk5NTZyeThmNTFhcDRkcXlmcW5kM3Y2dDY0ZnhoYTh2YnJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l9RMjN3IXC0MpwtVvq/giphy.gif"  />
