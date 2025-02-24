@@ -1,4 +1,4 @@
-# Hello World!, I'm Nickel, an Indonesian Student 👋🏼 <img src="./media/cute.gif" height="50" style="vertical-align: middle; margin-left: 10px;" />
+# Hello World!, I'm Nickel, an Indonesian Student 👋🏼
 
 <div align="center">
   <img src="./media/cute.gif" width="200" height="250"/>
@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="./media/cute.gif" height="150" style="margin-left: 20px;" />
   
   ### Connect with Me
   <a href="https://www.youtube.com/channel/YOURCHANNEL">
@@ -39,4 +40,5 @@
   <a href="https://www.linkedin.com/in/YOURUSERNAME">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <img src="./media/cute.gif" height="150" style="margin-left: 20px;" />
 </div>
