@@ -77,8 +77,6 @@ I have a strong interest in coding and cybersecurity, and I've decided to pursue
 
 # Thanks for stopping by! 😊🚀
 
-##
-
 <div align="center">
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZncDk5NTZyeThmNTFhcDRkcXlmcW5kM3Y2dDY0ZnhoYTh2YnJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l9RMjN3IXC0MpwtVvq/giphy.gif"  />
 </div>
