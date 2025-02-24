@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="./media/cute.gif"/>
+  <img src="./media/cute.gif" width="100" height="100" />
 </div>
+
 ###
 
 <img src="./media/cute.gif" height="150" style="right;" />
