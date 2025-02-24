@@ -1,12 +1,10 @@
-# Hello World!, I'm Nickel, an Indonesian Student 👋🏼
+# Hello World!, I'm Nickel, an Indonesian Student 👋🏼 <img src="./media/cute.gif" height="50" style="vertical-align: middle; margin-left: 10px;" />
 
 <div align="center">
   <img src="./media/cute.gif" width="200" height="250"/>
 </div>
 
 <div align="right">
-  <img src="./media/cute.gif" height="150" />
-  
   ### Technologies
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
