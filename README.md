@@ -59,10 +59,14 @@
 ###
 ## <div align=center>Github Status</div>
 
+<details>
+<summary>Click to expand</summary>
+
 [![nickelsync's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickelsync&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![nickelsync's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickelsync&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![ygy](https://github-profile-trophy.vercel.app/?username=nickelsync&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&layout=compact&theme=radical&no-frame=true")](https://github.com/ryo-ma/github-profile-trophy)
 
+</details>
 ###
 
 <div align="center">
