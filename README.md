@@ -6,8 +6,7 @@
 
 ## <div align=center>About Me</div>
 
-Welcome to my GitHub profile! <br/>
-Hi, I'm Nickel! 👋
+Hi, **I'm Nickel!** 👋🏼
 I'm a 18-year-old student, passionate about learning and exploring the endless possibilities of the internet.
 I have a strong interest in coding and cybersecurity, and I've decided to pursue a path in Cyber Security. Always eager to learn, experiment, and strengthen my skills in the digital world!  🚀
 
@@ -63,7 +62,7 @@ I have a strong interest in coding and cybersecurity, and I've decided to pursue
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
-## <div align=center>Github Status</div>
+## <div align=center>Github Stats</div>
 
 <details>
 <summary>Click to expand</summary>
@@ -74,6 +73,11 @@ I have a strong interest in coding and cybersecurity, and I've decided to pursue
 
 </details>
 
+##
+
+# Thanks for stopping by! 😊🚀
+
+##
 
 <div align="center">
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZncDk5NTZyeThmNTFhcDRkcXlmcW5kM3Y2dDY0ZnhoYTh2YnJyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l9RMjN3IXC0MpwtVvq/giphy.gif"  />
