@@ -57,13 +57,11 @@
 </div>
 
 ###
+## <div align=center>Github Status</div>
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nickelsync&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickelsync&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+[![nickelsync's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickelsync&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![nickelsync's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickelsync&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ygy](https://github-profile-trophy.vercel.app/?username=nickelsync&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&layout=compact&theme=radical&no-frame=true")](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
