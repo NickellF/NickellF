@@ -9,7 +9,7 @@
 
 ###
 
-<img src="./media/cute.gif" height="150" style="float: right;" />
+<img src="./media/cute.gif" height="150" style="right;" />
 
 
 ###
